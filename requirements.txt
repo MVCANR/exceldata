@@ -1,0 +1,8 @@
+pandas
+openpyxl
+openai
+langchain
+langchain-openai
+langchain-experimental
+streamlit
+sqlite3
